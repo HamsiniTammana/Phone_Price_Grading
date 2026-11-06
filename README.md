@@ -1,1 +1,2 @@
-# Phone_Price_Grading
+Used Mobile Phone Price Grading – A Random Forest Regression Model-Based Solution
+This project is used to predict the estimated price of a used mobile phone based on its features. It uses Machine Learning and the Random Forest Regression algorithm to calculate the phone's price. The system considers details like brand, RAM, storage, battery condition, and phone age. It also assigns a suitable price grade. This project helps buyers and sellers make better decisions when buying or selling used mobile phones.
